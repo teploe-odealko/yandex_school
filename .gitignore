@@ -1,0 +1,12 @@
+db.sqlite3
+**/__pycache__/
+
+env
+market.egg-info
+.idea
+.pytest_cache
+dist
+.DS_Store
+api/migrations
+expected.json
+response.json
